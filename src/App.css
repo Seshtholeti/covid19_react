@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.thead-dark{
+ background-color: black;
+ color: white;
+}
+
+center{
+  margin-top: 20px;
+}
+table{
+  margin-top: 50px;
+}
